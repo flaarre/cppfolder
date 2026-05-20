@@ -1,0 +1,12 @@
+# Compiled binaries
+helloworld
+todo
+
+# Debug symbols
+*.dSYM/
+
+# macOS junk
+.DS_Store
+
+# VS Code (optional, some people keep this)
+.vscode/
